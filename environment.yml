@@ -1,0 +1,11 @@
+name: streamgis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - arcpy=3.3
+  - streamlit
+  - folium
+  - conda-forge::python-docx
+prefix: C:\Users\niklas.brede\AppData\Local\anaconda3\envs\streamgis
