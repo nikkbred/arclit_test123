@@ -1,5 +1,6 @@
 name: streamgis
 channels:
+  - esri
   - conda-forge
   - defaults
 dependencies:
